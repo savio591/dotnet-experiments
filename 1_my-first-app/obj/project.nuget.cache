@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtzoLhS4VesxrcUverq992TcggYz9UmI/xT83l43+Y+QvHSN7KhmJgIy7wCG3zo8atG9ECu+YBh43fZG7ceUig==",
+  "success": true,
+  "projectFilePath": "/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/1_my-first-app.csproj",
+  "expectedPackageFiles": [
+    "/home/savio591/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

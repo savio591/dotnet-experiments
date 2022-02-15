@@ -1,0 +1,15 @@
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/bin/Debug/net6.0/1_my-first-app
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/bin/Debug/net6.0/1_my-first-app.deps.json
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/bin/Debug/net6.0/1_my-first-app.runtimeconfig.json
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/bin/Debug/net6.0/1_my-first-app.dll
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/bin/Debug/net6.0/ref/1_my-first-app.dll
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/bin/Debug/net6.0/1_my-first-app.pdb
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.csproj.AssemblyReference.cache
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.AssemblyInfoInputs.cache
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.AssemblyInfo.cs
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.csproj.CoreCompileInputs.cache
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.dll
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/ref/1_my-first-app.dll
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.pdb
+/home/savio591/savil-as-webdev/dotnet-experiments/1_my-first-app/obj/Debug/net6.0/1_my-first-app.genruntimeconfig.cache
